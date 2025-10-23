@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="logo.png" alt="Teolyth Logo" width="200" style="border-radius: 16px;" />
-</p>
-
-<h1 align="center">💠 Teolyth</h1>
+![Project Logo](logo.png)
 <h3 align="center">The First All-in-One Management Panel Focused on Community Growth & Economy (Beta)</h3>
 
 <p align="center">
