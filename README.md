@@ -8,11 +8,6 @@
 [![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?logo=node.js)]()
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)]()
 
-# Teolyth Discord Control Panel (Beta)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-beta-orange.svg)]()
-
 Teolyth is an **all-in-one management panel for Discord communities** that ships with a companion bot and a feature-rich dashboard. Everything below is built-in and wired together.
 
 ---
