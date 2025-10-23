@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="logo.png" alt="Teolyth Logo" width="220" style="max-width: 60%; border-radius: 24px; box-shadow: 0 20px 60px rgba(13, 23, 71, 0.35);" />
-</p>
+# 🎶 Teolyth Discord Control Panel (Beta)
+
+![Project Logo](logo.png)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)]()
+[![Build](https://img.shields.io/badge/status-beta-orange.svg)]()
+[![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?logo=node.js)]()
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)]()
 
 # Teolyth Discord Control Panel (Beta)
 
