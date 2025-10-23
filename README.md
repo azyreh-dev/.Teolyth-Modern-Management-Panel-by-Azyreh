@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Teolyth Logo" width="220" style="max-width: 60%; border-radius: 24px; box-shadow: 0 20px 60px rgba(13, 23, 71, 0.35);" />
+</p>
+
 # Teolyth Discord Control Panel (Beta)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -83,7 +87,6 @@ Teolyth is an **all-in-one management panel for Discord communities** that ships
 - Super-admin panel
 - Support utilities
 
-
 ---
 
 ## Staff Warning Flow (Example)
@@ -105,6 +108,3 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 ---
 
 Built with love for Discord communities by the Teolyth team.
-
-
-
