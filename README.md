@@ -4,14 +4,6 @@
 <h3 align="center">The All-in-One Management Panel Focused on Community Growth & Economy</h3>
 
 <p align="center">
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)]()
-[![Build](https://img.shields.io/badge/status-beta-orange.svg)]()
-[![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?logo=node.js)]()
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)]()
-</p>
-
-<p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/version-0.1.0-blue.svg" /></a>
    <img src="https://img.shields.io/badge/License-MIT-green.svg" />
   <img src="https://img.shields.io/badge/status-beta-orange.svg" />
