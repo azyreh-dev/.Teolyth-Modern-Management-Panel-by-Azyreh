@@ -1,6 +1,6 @@
 ![Project Logo](logo.png)
 
-<h1 align="center">🎶 Discord All-in-One Panel – **Beta**</h1>
+<h1 align="center">🎶 Discord All-in-One Panel – Beta</h1>
 <h3 align="center">The All-in-One Management Panel Focused on Community Growth & Economy</h3>
 
 <p align="center">
