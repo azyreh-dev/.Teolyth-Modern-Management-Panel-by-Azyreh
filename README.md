@@ -3,12 +3,13 @@
 <h1 align="center">🎶 Discord All-in-One Panel – **Beta**</h1>
 <h3 align="center">The All-in-One Management Panel Focused on Community Growth & Economy</h3>
 
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square" alt="License" /></a>
-  <img src="https://img.shields.io/badge/Status-Beta-f97316?style=flat-square" alt="Beta" />
-  <img src="https://img.shields.io/github/languages/top/Teolyth/Teolyth?style=flat-square&color=3b82f6" alt="Languages" />
-  <img src="https://img.shields.io/github/last-commit/Teolyth/Teolyth?style=flat-square&color=8b5cf6" alt="Last Commit" />
-</p>
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)]()
+[![Build](https://img.shields.io/badge/status-beta-orange.svg)]()
+[![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?logo=node.js)]()
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)]()
+
 
 ---
 
