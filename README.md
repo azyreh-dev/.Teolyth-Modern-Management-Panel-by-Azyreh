@@ -1,14 +1,6 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/WlqtwjB.png" alt="Teolyth Banner" width="100%" />
-</p>
+![Project Logo](logo.png)
 
-<!-- Logo -->
-<p align="center">
-  <img src="logo.png" alt="Teolyth Logo" width="160" style="border-radius: 12px;">
-</p>
-
-<h1 align="center">💠 Teolyth</h1>
+<h1 align="center">🎶 Discord All-in-One Panel – **Beta**</h1>
 <h3 align="center">The All-in-One Management Panel Focused on Community Growth & Economy</h3>
 
 <p align="center">
@@ -45,7 +37,7 @@ It combines **storefronts**, **economy systems**, **moderation tools**, and **au
 ### 🛡️ Moderation & Security
 - Advanced anti-raid & automod shields.
 - Filters for links, invites, ghost pings, images, mentions, and spam.
-- `/staffwarn` command with automatic role removal & history tracking.
+- `staffwarn` command with automatic role removal & history tracking.
 - Sanction logs, audit tracking, and dashboard moderation feed.
 - Invite tracking, leaderboards, and inviter rewards.
 
