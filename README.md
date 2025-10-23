@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Teolyth Logo" width="220" style="max-width: 65%; border-radius: 28px; box-shadow: 0 24px 68px rgba(13, 23, 71, 0.45);" />
 </p>
 
-<h1 align="center">Teolyth Discord Control Panel (Beta)</h1>
+<h1 align="center">Teolyth - First All-in-One Management Panel Focused on Community Growth and Economy (Beta)</h1>
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
