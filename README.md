@@ -114,7 +114,7 @@
 1. Configure warning role and limit inside **Staff Activity -> Configuration**.
 2. Issue a warning:
    ```bash
-   /staffwarn staff:@Moderator motiv:"Missed three shifts"
+   #staffwarn <staff> reason:"Missed three shifts"
    ```
 3. Dashboard logs the event; the Staff Activity table updates with live counts/history.
 4. On reaching the limit, the configured staff roles are removed automatically and the warning role is applied.
@@ -127,6 +127,6 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-Built with love for Discord communities by the Teolyth team.
+Built with love for Discord communities by the Teolyth team / Azyreh.
 
 
