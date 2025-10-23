@@ -1,114 +1,109 @@
+<!-- Hero Banner -->
 <p align="center">
-  <img src="logo.png" alt="Teolyth Logo" width="200">
+  <img src="https://i.imgur.com/WlqtwjB.png" alt="Teolyth Banner" width="100%" />
+</p>
+
+<!-- Logo -->
+<p align="center">
+  <img src="logo.png" alt="Teolyth Logo" width="160" style="border-radius: 12px;">
 </p>
 
 <h1 align="center">💠 Teolyth</h1>
-<h3 align="center">The First All-in-One Management Panel Focused on Community Growth & Economy (Beta)</h3>
+<h3 align="center">The All-in-One Management Panel Focused on Community Growth & Economy</h3>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
-  <img src="https://img.shields.io/badge/Status-Beta-orange.svg" alt="Beta" />
-  <img src="https://img.shields.io/github/languages/top/Teolyth/Teolyth.svg" alt="Languages" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square" alt="License" /></a>
+  <img src="https://img.shields.io/badge/Status-Beta-f97316?style=flat-square" alt="Beta" />
+  <img src="https://img.shields.io/github/languages/top/Teolyth/Teolyth?style=flat-square&color=3b82f6" alt="Languages" />
+  <img src="https://img.shields.io/github/last-commit/Teolyth/Teolyth?style=flat-square&color=8b5cf6" alt="Last Commit" />
 </p>
 
 ---
 
 ### 🚀 Overview
 
-**Teolyth** is more than a Discord bot — it’s a **next-generation platform** for building, monetizing, and managing online communities.  
-It unites **storefronts**, **economy systems**, and **moderation suites** into a single, beautifully designed dashboard — inspired by **Shopify**, **Steam**, and **Reddit**.
+**Teolyth** is a next-generation platform redefining how Discord communities grow, manage, and monetize.  
+It combines **storefronts**, **economy systems**, **moderation tools**, and **automation layers** inside a single, beautiful dashboard.
 
-> No technical setup required. Create a brand, sell perks, automate moderation, and grow your ecosystem — all from one panel.
+> Empower your guilds. Build a brand. Automate growth.  
+> Inspired by **Shopify**, **Steam**, **Reddit**, and **CS:GO** — reimagined for Discord.
 
 ---
 
 ### 🌟 Why Teolyth Exists
 
 - 💼 **Founder-first monetisation** – platform owners earn from every connected guild.  
-- 💰 **Server-owner revenue** – monetize roles, tiers, perks, and access with native payments.  
-- ⚡ **Automatic delivery** – instant role, coin, or permission sync when purchases or trades occur.  
-- 🧩 **Unified infrastructure** – storefront, automations, and moderation integrated under one dashboard.  
-- 🌍 **Inspired by ecosystems** – fusing features from **Shopify**, **Steam**, **Reddit**, and **CS:GO** into one secure stack.
+- 💰 **Server-owner revenue** – monetize roles, tiers, and channels via subscriptions & coins.  
+- ⚡ **Automatic delivery** – instant fulfillment of roles, coins, and permissions.  
+- 🧩 **Unified infrastructure** – storefronts, automations, and moderation all under one roof.  
+- 🌍 **Inspired by ecosystems** – built like Shopify, managed like Discord, scaled like Steam.
 
 ---
 
 ## 🧭 Core Feature Matrix
 
 ### 🛡️ Moderation & Security
-- Anti-raid defense and configurable automod shields.  
-- Filters for links, images, invites, ghost pings, mentions, spam, and attachments.  
-- `/staffwarn` system with auto role removal and MongoDB-based logs.  
-- Raid defense hooks, join/leave audits, sanction sharing, and dashboard moderation feed.  
-- Invite tracking with leaderboards, inviter rewards, and analytics.
+- Advanced anti-raid & automod shields.
+- Filters for links, invites, ghost pings, images, mentions, and spam.
+- `/staffwarn` command with automatic role removal & history tracking.
+- Sanction logs, audit tracking, and dashboard moderation feed.
+- Invite tracking, leaderboards, and inviter rewards.
 
 ### 🧑‍💼 Staff Operations
-- Live analytics: moderation activity, tickets, voice presence, and message logs.  
-- Role thresholds, weight overrides, and time-based performance metrics.  
-- Quality feedback, staff inbox, tagging, and assignment tools.  
-- Staff warnings tracked with role automation and dashboard insights.
+- Staff analytics: moderation, tickets, voice activity, and messages.
+- Role thresholds, weighted performance scores, and live charts.
+- Quality feedback & staff inbox for support tagging and tracking.
+- MongoDB-backed warning history with dashboard badges.
 
 ### 🎟️ Tickets & Support
-- Category-based ticket creation via button menus.  
-- Auto transcripts, dashboard viewer, and export system.  
-- Category-specific staff routing and analytics.
+- Button-based ticket creation with categories & staff roles.
+- Auto transcript saving, dashboard viewing, and export tools.
+- Category-based routing with analytics integration.
 
 ### 💸 Economy, Marketplace & Case Openings
-- Coins, XP leveling, streaks, and leaderboards with auto-roles.  
-- **Dynamic Marketplace** – buy/sell perks, trade, and manage prices live.  
-- **Animated Case Openings** – drop tables, rarity odds, item/role rewards.  
-- Unified logs and economy analytics integrated into dashboard.
+- Coins, XP leveling, streaks, and auto-roles.
+- Marketplace with trading, pricing, and live storefront editing.
+- Animated case openings with rarity tables & reward drops.
+- Unified economy logs & analytics.
 
 ### 📨 Messaging & Content Tools
-- Visual embed builder with live preview and template saving.  
-- Scheduled broadcasts, announcements, and pin management.
+- Visual embed builder with real-time preview.
+- Scheduled announcements, broadcasts, and pin management.
 
 ### 🖥️ Dashboard & Admin Utilities
-- Permission-aware guild selector.  
-- Real-time activity feeds, audit logs, and billing management.  
-- Role/permission matrices, staff applications, and global branding settings.
+- Guild selector with permission-aware access.
+- Activity feeds, audit logs, billing management, and branding.
+- Role matrices, staff application system, and premium controls.
 
 ### ⚙️ Automations & Data Layers
-- Subscription plans (Stripe/Revolut), invoices, and billing portals.  
-- Marketplace admin suite, trade summaries, and plan-based gating.  
-- Real-time plan cache and enforcement.  
-- Guild overviews with detailed metrics and quick access links.
+- Stripe & Revolut integration for plans, billing, and invoices.
+- Marketplace admin suite, economy analytics, and trade summaries.
+- Real-time plan enforcement and multi-guild overviews.
 
 ### 💎 Premium & Monetisation
-- Per-plan module gating with instant sync.  
-- Super-admin global panel with billing overrides and system-wide announcements.  
-- Monetisable modules: Marketplace, Case Openings, Economy Boosters, and more.
-
-### 📊 Dashboard Modules
-> *Available via Admin or Super Admin panels.*
-
-`Activity Insights • Admin Plans • Automod • Billing • Cases • Dashboard • Economy • Guilds • Invites • Levels • Messaging • News • Payments • Plans • Profile • Roles • Security • Settings • Staff Apps • Staff Inbox • Staff Activity • Tickets • Storefront • Super Admin • Support Utilities`
+- Premium plan gating and quota systems.
+- Super-admin dashboard for billing overrides and global broadcasts.
+- Monetisable modules (Marketplace, Cases, Boosters).
 
 ---
 
-## ⚙️ Coming Soon
+## 🎨 Coming Soon
 
-Teolyth is evolving fast. Here’s what’s on the horizon:
+Teolyth continues to expand — here’s what’s next:
 
-- 🎨 **Custom Templates for Storefronts & Marketplaces**  
-  Fully editable themes for creators and server owners.  
-
-- 🔁 **Trading Operations Between Members**  
-  Peer-to-peer trades of roles, items, and coins using inventories synced with the owner’s site.  
-
-- 🎁 **Giveaway System**  
-  Automated rewards — roles, coins, permissions — based on your giveaway configurations.  
-
-- 💬 **Enhanced Anti-Raid & Security AI**  
-  Adaptive moderation powered by detection heuristics for smarter, faster defenses.  
-
-- 🏪 **Role Marketplace Expansion**  
-  Sell tradable roles for coins and configure buyable server roles directly from the dashboard.
+| Feature | Description |
+|----------|--------------|
+| 🧱 **Custom Storefront Templates** | Edit storefront & marketplace themes visually. |
+| 🔁 **Member Trading System** | Trade roles/items/coins between members through inventory sync. |
+| 🎁 **Giveaway Engine** | Automatic role, coin, or permission rewards for winners. |
+| 🧠 **Adaptive Security AI** | Real-time heuristic anti-raid & spam detection. |
+| 🏪 **Expanded Role Marketplace** | Sell or trade configurable server roles for coins. |
 
 ---
 
 ## ⚠️ Example: Staff Warning Flow
 
-1. Configure a warning role and limit in **Staff Activity → Configuration**.  
+1. Configure a warning role & limit in **Staff Activity → Configuration**.  
 2. Issue a warning:
    ```bash
    #staffwarn <staff> reason:"Missed three shifts"
